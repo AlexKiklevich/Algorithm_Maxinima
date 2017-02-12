@@ -1,0 +1,12 @@
+c:\users\sasha\documents\visual studio 2015\Projects\K-means\K-means\bin\Debug\K-means.exe.config
+c:\users\sasha\documents\visual studio 2015\Projects\K-means\K-means\bin\Debug\K-means.exe
+c:\users\sasha\documents\visual studio 2015\Projects\K-means\K-means\bin\Debug\K-means.pdb
+c:\users\sasha\documents\visual studio 2015\Projects\K-means\K-means\obj\Debug\K-means.csprojResolveAssemblyReference.cache
+c:\users\sasha\documents\visual studio 2015\Projects\K-means\K-means\obj\Debug\K_means.Form1.resources
+c:\users\sasha\documents\visual studio 2015\Projects\K-means\K-means\obj\Debug\K_means.Properties.Resources.resources
+c:\users\sasha\documents\visual studio 2015\Projects\K-means\K-means\obj\Debug\K-means.csproj.GenerateResource.Cache
+c:\users\sasha\documents\visual studio 2015\Projects\K-means\K-means\obj\Debug\K-means.exe
+c:\users\sasha\documents\visual studio 2015\Projects\K-means\K-means\obj\Debug\K-means.pdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\Maxinima\K-means\bin\Debug\K-means.exe.config
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\Maxinima\K-means\obj\Debug\K-means.exe
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\Maxinima\K-means\obj\Debug\K-means.pdb

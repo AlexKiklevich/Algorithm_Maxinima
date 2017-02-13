@@ -37,15 +37,6 @@ namespace K_means
                 graph.DrawRectangle(new Pen(pd.color),
                                             pd.point.X, pd.point.Y, 2, 2);
             }
-            //for (int i = 0; i < classes.Length; i++)
-            //{
-            //    Rectangle rect = new Rectangle(classes[i].center.point.X,
-            //                    classes[i].center.point.Y, 10, 10);
-
-            //    graph.DrawRectangle(new Pen(classes[i].center.color),
-            //                                rect);
-            //    graph.FillRectangle(Brushes.Black, rect);
-            //}
 
         }
 
@@ -214,57 +205,6 @@ namespace K_means
             return mp;
         }
         
-        //private bool flag(bool [] flags)
-        //{
-        //    for (int i = 0; i < Flags.Length; i++)
-        //    {
-        //        if (flags[i] == false)
-        //        {
-        //            return false;
-        //        }
-        //    }
-        //    return true;
-        //}
+        
     }
 }
-//while (!flag(Flags))
-//            {
-//                for (int i = 0; i<classes.Length; i++)
-//                {
-//                    int X = 0;
-//int Y = 0;
-//                    foreach (PointData pd in classes[i].ObjectClass)
-//                    {
-//                        X += pd.point.X;
-//                        Y += pd.point.Y;
-//                    }
-//                    X /= classes[i].ObjectClass.Count;
-//                    Y /= classes[i].ObjectClass.Count;
-//                    if (classes[i].center.point.X == X && classes[i].center.point.Y == Y)
-//                    {
-//                        Flags[i] = true;
-//                    }
-//                    else
-//                        classes[i] = new ClassesData(X, Y, Color.Black);
-//                }
-//                foreach (PointData pd in pointlist.pointcollection)
-//                {
-//                    int numCluster = Calculate(classes, pd.point);
-//pd.color = colors[numCluster];
-//                    classes[numCluster].ObjectClass.Add(pd);
-//                }
-//            }
-//            foreach (PointData pd in pointlist.pointcollection)
-//            {
-//                graph.DrawRectangle(new Pen(pd.color),
-//                                            pd.point.X,pd.point.Y, 1,1);
-//            }
-//            for (int i = 0; i<classes.Length; i++)
-//            {
-//                Rectangle rect = new Rectangle(classes[i].center.point.X,
-//                                classes[i].center.point.Y, 10, 10);
-
-//graph.DrawRectangle(new Pen(classes[i].center.color),
-//                                            rect);
-//                graph.FillRectangle(Brushes.Black, rect);
-//            }
